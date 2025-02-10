@@ -1,16 +1,23 @@
-## Hi there 👋
+## Hi there, I'm Santiago Maldonado Rojas! 👋
 
-<!--
-**Santiago2132/Santiago2132** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 About Me
+I'm a passionate developer and content creator. I love working on **programming, video games, and creative projects**. I enjoy exploring new technologies and sharing my knowledge through my **YouTube channel: [Bemo Code](https://www.youtube.com/@Bemo-Code)**.
 
-Here are some ideas to get you started:
+### 🔧 Technologies & Tools
+- **Languages:** TypeScript, Java, Dart, JavaScript, Python, HTML, CSS
+- **Frameworks & Libraries:** React, Next.js, Node.js, Flutter
+- **Other Tools:** Git, Linux, Google Cloud, Unity and others
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📺 Latest Projects
+- 📊 *Machine Learning* - Exploring AI and data science
+- 🎮 *Game Development* - Creating engaging experiences with JavaScript and Python
+- 🖥️ *Web Apps* - Building intuitive and dynamic user interfaces
+
+
+### 📫 Connect with Me
+- 💼 **LinkedIn:** [Santiago LinkedIn](https://www.linkedin.com/in/santiago-maldonado-rojas-4580b3276/)
+- 📹 **YouTube:** [Bemo Code](https://www.youtube.com/@Bemo-Code)
+- ⚡ **Fun Fact:** I love solving coding challenges and experimenting with new programming paradigms!
+
+---
+⭐️ Feel free to check out my repositories and contribute!

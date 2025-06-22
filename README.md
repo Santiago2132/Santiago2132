@@ -7,7 +7,6 @@ I'm a passionate developer and content creator. I love working on **programming,
 - **Languages:** TypeScript, Java, Dart, JavaScript, Python, HTML, CSS
 - **Frameworks & Libraries:** React, Next.js, Node.js, Flutter
 - **Other Tools:** Git, Linux, Google Cloud, Unity and others
-- **Current Project**,![Github commit activity](https://img.shields.io/github/commit-activity/w/Santiago2132/maizback/santiago)
 
 ### 📺 Latest Projects
 - 📊 *Machine Learning* - Exploring AI and data science

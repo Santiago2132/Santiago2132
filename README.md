@@ -4,14 +4,15 @@
 I'm a passionate developer and content creator. I love working on **programming, video games, and creative projects**. I enjoy exploring new technologies and sharing my knowledge through my **YouTube channel: [Bemo Code](https://www.youtube.com/@Bemo-Code)**.
 
 ### 🔧 Technologies & Tools
-- **Languages:** TypeScript, Java, Dart, JavaScript, Python, HTML, CSS
-- **Frameworks & Libraries:** React, Next.js, Node.js, Flutter
-- **Other Tools:** Git, Linux, Google Cloud, Unity and others
+- **Languages:** Kotlin, TypeScript, Java, Dart, JavaScript, Python, HTML, CSS.
+- **Frameworks & Libraries:** React, Next.js, Node.js, Flutter.
+- **Other Tools:** Git, Linux, Android Studio, Google Cloud, Unity.
 
 ### 📺 Latest Projects
-- 📊 *Machine Learning* - Exploring AI and data science
-- 🎮 *Game Development* - Creating engaging experiences with JavaScript and Python
-- 🖥️ *Web Apps* - Building intuitive and dynamic user interfaces
+- 🤖 *Android apps* - Exploring apps en google play.
+- 📊 *Machine Learning* - Exploring AI and data science.
+- 🎮 *Game Development* - Creating engaging experiences with JavaScript and Python.
+- 🖥️ *Web Apps* - Building intuitive and dynamic user interfaces.
 
 
 ### 📫 Connect with Me

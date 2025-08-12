@@ -17,7 +17,6 @@ I'm a passionate developer and content creator. I love working on **programming,
 
 ### 📫 Connect with Me
 - 💼 **LinkedIn:** [Santiago LinkedIn](https://www.linkedin.com/in/santiago-maldonado-rojas-4580b3276/)
-- 📹 **YouTube:** [Bemo Code](https://www.youtube.com/@Bemo-Code)
 - ⚡ **Fun Fact:** I love solving coding challenges and experimenting with new programming paradigms!
 
 ---
